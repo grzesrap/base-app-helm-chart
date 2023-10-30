@@ -1,0 +1,9 @@
+namespace: test-base-app
+
+helmCharts:
+- name: base-app
+  releaseName: test
+  repo: https://grzesrap.github.io/base-app-helm-chart/
+  version: 0.1.0
+  includeCRDs: false
+  valuesInline:
