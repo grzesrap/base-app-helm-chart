@@ -9,6 +9,6 @@ entries:
     name: base-app
     type: application
     urls:
-    - https://github.com/grzesrap/base-app-helm-chart/base-app-0.1.0.tgz
+    - https://grzesrap.github.io/base-app-helm-chart/base-app-0.1.0.tgz
     version: 0.1.0
 generated: "2023-10-30T14:37:46.743872393+01:00"
