@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   base-app:
   - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2023-10-30T14:37:46.744411703+01:00"
+    appVersion: 0.0.2
+    created: "2023-10-30T14:49:55.24183365+01:00"
     description: A Helm chart for Kubernetes
-    digest: dd7e4b329ad7dd0946c8bc47d35c7d828b2f3a7c46d5839b308bfc5a0ddcf50a
+    digest: 040589d5ebf81aae81dbee98b575f3120457adef1f69564c75d85c6ee7de7a5e
+    name: base-app
+    type: application
+    urls:
+    - https://grzesrap.github.io/base-app-helm-chart/base-app-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-10-30T14:49:55.241443445+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 6a4b11024a5f70d968bf4298915ccbc5766832ed1ad35b569cb540f71095fd88
     name: base-app
     type: application
     urls:
     - https://grzesrap.github.io/base-app-helm-chart/base-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-30T14:37:46.743872393+01:00"
+generated: "2023-10-30T14:49:55.240643284+01:00"
